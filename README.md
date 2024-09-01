@@ -1,4 +1,4 @@
-                                                                                                EDA | Exploratory Data Analysis in Python
+EDA | Exploratory Data Analysis in Python
 
 In Python, exploratory data analysis, or EDA, is a crucial step in the data analysis process that involves studying, exploring, and visualizing information to derive important insights. To find patterns, trends, and relationships in the data, it makes use of statistical tools and visualizations. This helps to formulate hypotheses and direct additional investigations.
 Python provides strong EDA tools with its diverse library ecosystem, which includes Seaborn, Matplotlib, and Pandas. An essential phase in the data science pipeline, this procedure improves data comprehension and provides information for further modeling decisions.
